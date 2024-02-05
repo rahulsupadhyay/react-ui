@@ -17,7 +17,7 @@
     "extends": "react-app"
   },
   "devDependencies": {
-  "tar": ">=4.4.18"
+    "tar": ">=4.4.18"
   },
   "browserslist": {
     "production": [
